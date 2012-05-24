@@ -1,0 +1,12 @@
+Boiler library in conjuction with hot library is a multithreaded server environment. It gives a possibility to write potentially fast and flexible servers using single process/thread technique.
+
+Key features:
+
+iostream interface for sockets
+transparent context switches while waiting for data (event-driven context switching)
+based on Thread Pool and Reactor patterns
+support for epoll and kqueue
+highly configurable
+Definitely works under Linux and FreeBSD.
+
+Not documented yet. Includes server example (templates/classic_server/doller).

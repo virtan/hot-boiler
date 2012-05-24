@@ -1,0 +1,89 @@
+/* config.h.in.  Generated from configure.ac by autoheader.  */
+
+/* boiler environment flag */
+#undef BOILER_ENVIRONMENT
+
+/* boiler environment version */
+#undef BOILER_VERSION
+
+/* Define to 1 if you have the <dlfcn.h> header file. */
+#undef HAVE_DLFCN_H
+
+/* Define to 1 if you have the <inttypes.h> header file. */
+#undef HAVE_INTTYPES_H
+
+/* dl usability */
+#undef HAVE_LIBdl
+
+/* epoll usability */
+#undef HAVE_LIBepoll
+
+/* hot usability */
+#undef HAVE_LIBhot
+
+/* kqueue usability */
+#undef HAVE_LIBkqueue
+
+/* libxml2 usability */
+#undef HAVE_LIBlibxml2
+
+/* rt usability */
+#undef HAVE_LIBrt
+
+/* use linux threads */
+#undef HAVE_LTHREADS
+
+/* Define to 1 if you have the <memory.h> header file. */
+#undef HAVE_MEMORY_H
+
+/* use pthreads */
+#undef HAVE_PTHREADS
+
+/* Define to 1 if you have the <stdint.h> header file. */
+#undef HAVE_STDINT_H
+
+/* Define to 1 if you have the <stdlib.h> header file. */
+#undef HAVE_STDLIB_H
+
+/* Define to 1 if you have the <strings.h> header file. */
+#undef HAVE_STRINGS_H
+
+/* Define to 1 if you have the <string.h> header file. */
+#undef HAVE_STRING_H
+
+/* Define to 1 if you have the <sys/stat.h> header file. */
+#undef HAVE_SYS_STAT_H
+
+/* Define to 1 if you have the <sys/types.h> header file. */
+#undef HAVE_SYS_TYPES_H
+
+/* Define to 1 if you have the <unistd.h> header file. */
+#undef HAVE_UNISTD_H
+
+/* Name of package */
+
+/* Define to the address where bug reports for this package should be sent. */
+
+/* Define to the full name of this package. */
+
+/* Define to the full name and version of this package. */
+
+/* Define to the one symbol short name of this package. */
+
+/* Define to the version of this package. */
+
+/* Define to 1 if you have the ANSI C header files. */
+#undef STDC_HEADERS
+
+/* system configuration directory */
+#undef SYSCONFDIR
+
+/* one thread per client mode - for portability purposes */
+#undef THREAD_PER_CLIENT_MODE
+
+/* Version number of package */
+
+/* Enable GNU extensions on systems that have them.  */
+#ifndef _GNU_SOURCE
+# undef _GNU_SOURCE
+#endif
